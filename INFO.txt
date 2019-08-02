@@ -5,4 +5,4 @@ This report was published on 06/26/2019. Since then it has undergone corrections
 
 
 Author: Matías Bonino.
-License of this file ("INFO.txt"): CC0 (https://creativecommons.org/publicdomain/zero/1.0/).
+License of this "INFO.txt" file: CC0 (https://creativecommons.org/publicdomain/zero/1.0/).
